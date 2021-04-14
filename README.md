@@ -31,3 +31,39 @@ In recent decades, the issue of air pollution has been of particular concern as 
     <td>Gradient Boosting Regressor</td>
   </tr>
 </table>
+
+<table style="width:100%">
+  <tr>
+    <th>Classification</th>
+  </tr>
+  <tr>
+    <td>Bagging classifier</td>
+  </tr>
+  <tr>
+    <td>Randomized search</td>  
+  </tr>
+  <tr>
+    <td>Decision tree </td>
+  </tr>
+  <tr>
+    <td>Random Forest</td>
+  </tr>
+  <tr>
+    <td>K-NN</td>
+  </tr>
+   <tr>
+    <td>Multilayer Perceptron (MLP)</td>
+  </tr>
+   <tr>
+    <td>SVM</td>
+  </tr>
+   <tr>
+    <td>Gradient Boosting Classifier</td>
+  </tr>
+   <tr>
+    <td>Logistic Regression</td>
+  </tr>
+   <tr>
+    <td>Gaussian Naive Bayes</td>
+  </tr>
+</table>
