@@ -1,5 +1,5 @@
 # Machine-learning-algorithms-for-modelling-air-quality
-<h1 align="center">Diploma Thesis</h1>
+<h2 align="center">Diploma Thesis</h2>
 
 ![image](https://user-images.githubusercontent.com/74098652/114778806-0299b500-9d7e-11eb-8948-46a3b4cc44de.png)
 <br>
@@ -17,7 +17,7 @@ In recent decades, the issue of air pollution has been of particular concern as 
     <td>Linear Regression</td>
   </tr>
   <tr>
-    <td>Decision tree</td>  
+    <td>Decision Tree</td>  
   </tr>
   <tr>
     <td>Decision tree Grid search</td>
@@ -38,13 +38,13 @@ In recent decades, the issue of air pollution has been of particular concern as 
     <th>Classification</th>
   </tr>
   <tr>
-    <td>Bagging classifier</td>
+    <td>Bagging Classifier</td>
   </tr>
   <tr>
-    <td>Randomized search</td>  
+    <td>Randomized Search</td>  
   </tr>
   <tr>
-    <td>Decision tree </td>
+    <td>Decision Tree </td>
   </tr>
   <tr>
     <td>Random Forest</td>
