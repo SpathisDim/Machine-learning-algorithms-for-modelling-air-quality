@@ -1,5 +1,5 @@
 # Machine-learning-algorithms-for-modelling-air-quality
-<h3 align="center">Diploma Thesis</h3>
+<h1 align="center">Diploma Thesis</h1>
 
 ![image](https://user-images.githubusercontent.com/74098652/114778806-0299b500-9d7e-11eb-8948-46a3b4cc44de.png)
 <br>
@@ -32,7 +32,7 @@ In recent decades, the issue of air pollution has been of particular concern as 
     <td>Gradient Boosting Regressor</td>
   </tr>
 </table>
-
+<br>
 <table align="center" style="width:100%">
   <tr>
     <th>Classification</th>
