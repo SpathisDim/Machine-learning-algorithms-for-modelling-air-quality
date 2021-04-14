@@ -32,7 +32,7 @@ In recent decades, the issue of air pollution has been of particular concern as 
   </tr>
 </table>
 
-<table style="width:100%">
+<table style="width:100% position:absolute margin-right:200px">
   <tr>
     <th>Classification</th>
   </tr>
