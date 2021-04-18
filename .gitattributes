@@ -1,2 +1,2 @@
 *text-auto
-*.JupyterNotebook linguist-language=Python
+*.ipynb linguist-language=py
